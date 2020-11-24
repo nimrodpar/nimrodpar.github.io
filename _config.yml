@@ -1,16 +1,7 @@
-# The Site Settings
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT licensed
 
+title: Nimrod Partush                          # the main title
 
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-#--------------------------
-
-title: Chirpy                          # the main title
-
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Researcher Engineer with interests in Program & Binary Analysis, Security, Big Data and Big Code.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -18,28 +9,28 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://nimrodpar.github.io'
 
-author: your_full_name                  # change to your full name
+author: Nimrod Partush                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/nimrod.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: nimrodpar             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: nimrodpar            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Nimrod Partush                  # it will shows as the copyright owner in Footer
+  email: nimrod@partush.org             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/nimrodpar      # change to your twitter homepage
+    - https://github.com/nimrodpar       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/nimrod-partush
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -51,7 +42,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Jerusalem
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
@@ -201,7 +192,7 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - redirects.json
 
 # see: <https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md>
-jekyll-archives:  
+jekyll-archives:
   enabled: [categories, tags]
   layouts:
     category: category
