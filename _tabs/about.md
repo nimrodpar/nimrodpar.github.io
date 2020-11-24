@@ -9,35 +9,14 @@ order: 1
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
-
+---
 
 > **Ph.D.** In Computer Science from the Technion, Israel.
 >
 > **Researcher** with interests in Program & Binary Analysis, Security, Big Data and Big Code.
 
-### [](#projects)Projects & Interests
-
-
-- [Code Similarity](http://binsim.com)
-- [Asbtract Semantic Differencing](https://github.com/nimrodpar/differential)
-- [rr - lightweight recording & deterministic debugging](http://rr-project.org/)
-- Exploiting _Waze_'s Social Navigation
-  - [BlackHat Talk](https://www.youtube.com/watch?v=ooExs8FJUK4)
-  - [Wired UK Article](http://www.wired.co.uk/article/waze-hacked-fake-traffic-jam)
-
-### [](#academic)Academic Experience
-```tex
-\begin{document}
-\section{[2011 -- 2016] Ph.D. Computer Science -- Technion, Israel}
-Research Thesis: \emph{Differential Program Analysis}
-Advisor: Prof. Eran Yahav
-Started on the M.Sc. program, moved to the prestigious direct PhD course.
-\section{[2002 -- 2006] B.Sc. Computer Science -- Technion, Israel}
-Graduated \emph{Summa Cum Laude}
-\end{document}
-```
-
-### [](#proffesional)Professional Experience
+### Professional Experience
+---
 ```python
 def professional_experience(year):
   if 2019 <= year:
@@ -55,7 +34,21 @@ def professional_experience(year):
     return ["Software Engineer, Intel, Israel"]
 ```
 
-### [](#awards)Awards and Scholarships
+### Academic Experience
+---
+```tex
+\begin{document}
+\section{[2011 -- 2016] Ph.D. Computer Science -- Technion, Israel}
+Research Thesis: \emph{Differential Program Analysis}
+Advisor: Prof. Eran Yahav
+Started on the M.Sc. program, moved to the prestigious direct PhD course.
+\section{[2002 -- 2006] B.Sc. Computer Science -- Technion, Israel}
+Graduated \emph{Summa Cum Laude}
+\end{document}
+```
+
+### Awards and Scholarships
+---
 *  [2014--2016] Israel Department of Science Cyber Scholarship
 *  [2013,15] _Faculty Purim Party - Best Costume_
 *  [2012] IBM PhD Fellowship Award
@@ -65,7 +58,8 @@ def professional_experience(year):
 *  [2008] Award for outstanding contribution to communication systems security - Israeli Communication Corps
 *  [2003 -- 2006] School of computer science, Technion IIT - Outstanding undergraduate student
 
-### [](#publications)Peer-Reviewed Publications
+### Peer-Reviewed Publications
+---
 
 |Conference|Publication||
 |:---------|:------------|:-----|
