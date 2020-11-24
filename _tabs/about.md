@@ -63,13 +63,13 @@ Graduated \emph{Summa Cum Laude}
 
 |Conference|Publication||
 |:---------|:------------|:-----|
-|[PLAS '18](http://plas2018.dcc.ufmg.br/)|Binary Similarity Detection Using Machine Learning|[Paper](assets/publications/zeek.pdf)|
-|[ASPLOS '18](https://www.asplos2018.org/)|FirmUp: Precise Static Detection of Common Vulnerabilities in Firmware|[Paper](assets/publications/firmup.pdf)|
-|[PLDI '17](http://pldi17.sigplan.org/)|Similarity of Binaries through re-Optimization|[Paper](assets/publications/gitz.pdf)<br>[Presentation](assets/presentations/gitz-pldi17.pdf)|
-|[ATC '17](https://www.usenix.org/conference/atc17)|Engineering Record and Replay for Deployability|[Paper](assets/publications/rr.pdf)<br>|
-|[ISSTA '17](http://conf.researchr.org/home/issta-2017)|Refining Interprocedural Change-Impact Analysis using Equivalence Relations|[Paper](assets/publications/cia.pdf)<br>|
-|[PLDI '16](http://pldi16.sigplan.org/)|Statistical Similarity of Binaries|[Paper](assets/publications/esh.pdf)<br>[Presentation](assets/presentations/esh-pldi16.pdf)|
-|[BlackHat Asia '15](https://www.blackhat.com/asia-15/)|Exploiting Social Navigation|[Paper](assets/publications/waze.pdf)<br>[Presentation](assets/presentations/waze-bh15.pdf)|
-|[OOPSLA '14](http://2014.splashcon.org/track/oopsla2014)|Abstract Semantic Differencing via Speculative Correlation|[Paper](assets/publications/score.pdf)<br>[Presentation](assets/presentations/score-oopsla14.pdf)|
-|SAS '13|Abstract Semantic Differencing for Numerical Programs|[Paper](assets/publications/differential.pdf)<br>[Presentation](assets/presentations/differential-sas13.pdf)|
+|[PLAS '18](http://plas2018.dcc.ufmg.br/)|Binary Similarity Detection Using Machine Learning|[Paper](/assets/publications/zeek.pdf)|
+|[ASPLOS '18](https://www.asplos2018.org/)|FirmUp: Precise Static Detection of Common Vulnerabilities in Firmware|[Paper](/assets/publications/firmup.pdf)|
+|[PLDI '17](http://pldi17.sigplan.org/)|Similarity of Binaries through re-Optimization|[Paper](/assets/publications/gitz.pdf)<br>[Presentation](/assets/presentations/gitz-pldi17.pdf)|
+|[ATC '17](https://www.usenix.org/conference/atc17)|Engineering Record and Replay for Deployability|[Paper](/assets/publications/rr.pdf)<br>|
+|[ISSTA '17](http://conf.researchr.org/home/issta-2017)|Refining Interprocedural Change-Impact Analysis using Equivalence Relations|[Paper](/assets/publications/cia.pdf)<br>|
+|[PLDI '16](http://pldi16.sigplan.org/)|Statistical Similarity of Binaries|[Paper](/assets/publications/esh.pdf)<br>[Presentation](/assets/presentations/esh-pldi16.pdf)|
+|[BlackHat Asia '15](https://www.blackhat.com/asia-15/)|Exploiting Social Navigation|[Paper](/assets/publications/waze.pdf)<br>[Presentation](/assets/presentations/waze-bh15.pdf)|
+|[OOPSLA '14](http://2014.splashcon.org/track/oopsla2014)|Abstract Semantic Differencing via Speculative Correlation|[Paper](/assets/publications/score.pdf)<br>[Presentation](/assets/presentations/score-oopsla14.pdf)|
+|SAS '13|Abstract Semantic Differencing for Numerical Programs|[Paper](/assets/publications/differential.pdf)<br>[Presentation](/assets/presentations/differential-sas13.pdf)|
 
