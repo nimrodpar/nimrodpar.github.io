@@ -60,3 +60,7 @@ jobs:
 #       - name: Test Site
 #         run: |
 #           bash tools/test.sh
+
+      - name: Deploy
+        run: |
+          bash tools/deploy.sh
