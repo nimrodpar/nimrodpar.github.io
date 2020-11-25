@@ -11,9 +11,10 @@ order: 1
 ---
 ---
 
-> **Ph.D.** In Computer Science from the Technion, Israel.
->
-> **Researcher** with interests in Program & Binary Analysis, Security, Big Data and Big Code.
+
+**{Researcher, Engineer}** with interests in Program Analysis, Cyber Security & Data Science.
+
+**Ph.D.** In Computer Science from the Technion, Israel.
 
 ### Professional Experience
 ---
