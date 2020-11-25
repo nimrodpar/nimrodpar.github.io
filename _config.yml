@@ -1,7 +1,7 @@
 
 title: Nimrod Partush                          # the main title
 
-tagline:{Researcher, Engineer} with interests in Program Analysis, Cyber Security & Data Science.  # it will display as the sub-title
+tagline: '{Researcher, Engineer} with interests in Program Analysis, Cyber Security & Data Science.'  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Nimrod Partush's Personal Website
