@@ -1,17 +1,21 @@
 ---
 title: Exploiting Social Navigation
-author: Nimrod Partush, Meital Zilbershtain, Shir Yadid, Eran Yahav
+author: Nimrod Partush
 date: Mar 25, 2015
 categories: [Papers]
-tags: [program-analysis]
-math: true
+tags: [security, android]
+math: false
 ---
 
 Our [work](/assets/publications/waze.pdf) on exploiting the Waze social navigation app was accepted in [Black Hat 15"](https://www.blackhat.com/asia-15/).
 
 [Here](http://www.wired.co.uk/article/waze-hacked-fake-traffic-jam)'s a nice article TL;DRing it.
 
-Abstract: _We address the problem of computing semantic differences between
+**[Slides](/assets/presentations/waze-bh15.pdf)**, **[Talk](https://www.youtube.com/watch?v=ooExs8FJUK4)**
+
+**Collaborator(s)**: Meital Zilbershtain, Shir Yadid, Eran Yahav
+
+**Abstract**: _We address the problem of computing semantic differences between
           a program and a patched version of the program. Our goal is to obtain a precise
           characterization of the difference between program versions, or establish their
           equivalence when no difference exists.

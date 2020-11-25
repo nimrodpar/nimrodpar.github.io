@@ -1,15 +1,19 @@
 ---
 title: Abstract Semantic Differencing via Speculative Correlation
-author: Nimrod Partush, Eran Yahav
-date: Jun 19, 2013
+author: Nimrod Partush
+date: Oct 20, 2014
 categories: [Papers]
-tags: [program-analysis]
-math: true
+tags: [static-analysis, abstract-interpretation, differential, c]
+math: false
 ---
 
 Another [paper](/assets/publications/score.pdf) dealing with abstract differencing accepted in [OOPSLA 14"](https://2014.splashcon.org/track/oopsla2014).
 
-Abstract: _We address the problem of computing semantic differences
+**[Slides](/assets/presentations/score-oopsla14.pdf)**
+
+**Collaborator(s)**: Eran Yahav
+
+**Abstract**: _We address the problem of computing semantic differences
            between a program and a patched version of the
            program. Our goal is to obtain a precise characterization
            of the difference between program versions, or establish

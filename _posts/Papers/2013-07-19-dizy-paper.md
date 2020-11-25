@@ -1,15 +1,19 @@
 ---
 title: Abstract Semantic Differencing for Numerical Programs
-author: Nimrod Partush, Eran Yahav
-date: Jun 19, 2013
+author: Nimrod Partush
+date: Jul 19, 2013
 categories: [Papers]
-tags: [program-analysis]
-math: true
+tags: [static-analysis, abstract-interpretation, differential, c]
+math: false
 ---
 
 First [paper](/assets/publications/dizy.pdf) accepted 🥳 in [SAS 13"](https://www.microsoft.com/en-us/research/publication/proceedings-of-the-20th-static-analysis-symposium/)!
 
-Abstract: _We address the problem of computing semantic differences between
+**[Slides](/assets/presentations/dizy-sas13.pdf)**
+
+**Collaborator(s)**: Eran Yahav
+
+**Abstract**: _We address the problem of computing semantic differences between
           a program and a patched version of the program. Our goal is to obtain a precise
           characterization of the difference between program versions, or establish their
           equivalence when no difference exists.
