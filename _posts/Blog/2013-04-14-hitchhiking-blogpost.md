@@ -39,7 +39,6 @@ Having that said, we still live in the real world, and naturally people are some
     <li><b>Its (not) a numbers game.</b> Counter-intuitively, a bunch of cars is much worse than a single car. Why? lets take a tour of the state of mind in a convoy of cars coming down the road seeing a hitchhiker: Car #1: "Oh, should i stop? nah, one of the cars behind me will pick them up". Car #2: "Well, if the first car didn't stop, why should i stop for them?". Car #3: "Two cars didn't stop for these guys! something's fishy, i'm out" etc.</li>
     <li><b>Don't get discouraged!</b> It sometimes takes a while to get a ride. Whatever you do, don't give up! the ride will come! In my experience - the more you wait - the sweeter the ride you'll eventually get.</li>
 </ul>
-                    <p>
+
 So that about wraps it up, i'll try and add more as they come to mind. Remember - these thumb rules have been formulated in New Zealand & Australia only, but i'll keep testing them in other countries as i get the chance. All feedback is welcome!</br>
 Happy and safe hitchhiking!
-</p>
