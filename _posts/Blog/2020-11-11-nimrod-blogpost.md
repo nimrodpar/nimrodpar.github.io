@@ -1,7 +1,7 @@
 ---
-title: Origin of Nimrod
+title: Origins of Nimrod (The Name)
 author: Nimrod Partush
-date: Nov 11, 2020
+date: Dec 11, 2020
 categories: [Blog]
 tags: [folklore]
 math: false
