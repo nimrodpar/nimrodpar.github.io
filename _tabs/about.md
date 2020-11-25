@@ -12,7 +12,7 @@ order: 1
 ---
 
 
-**{Researcher, Engineer}** with interests in Program Analysis, Cyber Security & Data Science.
+**_{Researcher, Engineer}_** with interests in Program Analysis, Cyber Security & Data Science.
 
 **Ph.D.** In Computer Science from the Technion, Israel.
 
@@ -72,5 +72,5 @@ Graduated \emph{Summa Cum Laude}
 |[PLDI '16](http://pldi16.sigplan.org/)|Statistical Similarity of Binaries|[Paper](/assets/publications/esh.pdf)<br>[Presentation](/assets/presentations/esh-pldi16.pdf)|
 |[BlackHat Asia '15](https://www.blackhat.com/asia-15/)|Exploiting Social Navigation|[Paper](/assets/publications/waze.pdf)<br>[Presentation](/assets/presentations/waze-bh15.pdf)|
 |[OOPSLA '14](http://2014.splashcon.org/track/oopsla2014)|Abstract Semantic Differencing via Speculative Correlation|[Paper](/assets/publications/score.pdf)<br>[Presentation](/assets/presentations/score-oopsla14.pdf)|
-|SAS '13|Abstract Semantic Differencing for Numerical Programs|[Paper](/assets/publications/differential.pdf)<br>[Presentation](/assets/presentations/differential-sas13.pdf)|
+|SAS '13|Abstract Semantic Differencing for Numerical Programs|[Paper](/assets/publications/dizy.pdf)<br>[Presentation](/assets/presentations/dizy-sas13.pdf)|
 
