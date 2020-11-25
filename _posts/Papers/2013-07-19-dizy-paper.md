@@ -9,7 +9,7 @@ math: false
 
 First [paper](/assets/publications/dizy.pdf) accepted 🥳 in [SAS 13"](https://www.microsoft.com/en-us/research/publication/proceedings-of-the-20th-static-analysis-symposium/)!
 
-**[Slides](/assets/presentations/dizy-sas13.pdf)**
+**[Slides](/assets/presentations/dizy-sas13.pdf)**, **[Code](https://github.com/nimrodpar/differential)**
 
 **Collaborator(s)**: Eran Yahav
 
