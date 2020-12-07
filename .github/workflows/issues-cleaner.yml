@@ -8,6 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         DAYS_TO_STALE: ${{ 5 }}
         DAYS_TO_CLOSE: ${{ 2 }}
       uses: actions/stale@v3
