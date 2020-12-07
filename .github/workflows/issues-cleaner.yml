@@ -8,12 +8,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         DAYS_TO_STALE: ${{ 5 }}
         DAYS_TO_CLOSE: ${{ 2 }}
       uses: actions/stale@v3
       with:
-        repo-token: ${{ secrets.GH_PAT }}
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ github.token }}
         stale-issue-message: 'This issue is stale because it has been open ${{ env.DAYS_TO_STALE }} days with no activity. Remove stale label or comment or this will be closed in ${{ env.DAYS_TO_CLOSE }} days'
         stale-issue-label: 'stale'
         exempt-issue-labels: 'pending, in progress'
