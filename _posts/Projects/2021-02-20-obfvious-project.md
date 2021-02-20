@@ -1,7 +1,7 @@
 ---
 title: The Obfvious Compiler
 author: Nimrod Partush
-date: Nov 30, 2020
+date: Feb 20, 2021
 categories: [Projects]
 tags: [compilers, llvm, clang, obfuscation, c, c++, security, reverse-engineering, windows]
 math: false
